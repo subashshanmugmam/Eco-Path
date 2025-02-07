@@ -1,1 +1,2 @@
 # Eco-Path
+EcoPath is an AI-powered sustainability platform that helps individuals and businesses track and reduce their environmental impact. It collects data from various sources, analyzes carbon footprints, and provides actionable insights for eco-friendly decision-making. With real-time monitoring, predictive analytics, and personalized recommendations, EcoPath empowers users to adopt greener practices and contribute to a sustainable future. 🌿🚀
